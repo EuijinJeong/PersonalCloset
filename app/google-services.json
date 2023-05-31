@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247403906706",
+    "project_id": "personal-closet-81770",
+    "storage_bucket": "personal-closet-81770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247403906706:android:417a2cd84e470c51c9484b",
+        "android_client_info": {
+          "package_name": "kr.ac.skuniv.practive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247403906706-2pbfq2udcs8ef1qnqv58vskcklps68lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiyhot8LgRDCD5-q0HNT8MI1OEviPkCY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247403906706-2pbfq2udcs8ef1qnqv58vskcklps68lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
